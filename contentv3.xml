@@ -85,7 +85,7 @@
    <unicode value="Unidad"></unicode>
   </list>
   <string role="key" value="_name"></string>
-  <unicode value="recurso_completo"></unicode>
+  <unicode value="recurso_corregido_1"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
   <int value="49"></int>
   <string role="key" value="_nextNodeId"></string>
@@ -208,7 +208,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="871"></int>
+                  <int value="917"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -222,7 +222,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_128_2.24"></unicode>
+                <unicode value="0_128_2.26"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="170">
                  <dictionary>
@@ -233,7 +233,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="empezar__recurso.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\empezar__recurso.jpg"></string>
+                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\empezar__recurso.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="0c02da3674bddc03482361e6e3aef5e6"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -260,7 +260,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="885"></int>
+                  <int value="931"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -274,7 +274,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_128_2.25"></unicode>
+                <unicode value="0_128_2.27"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="171">
                  <dictionary>
@@ -285,7 +285,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="logo_unl.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\logo_unl.jpg"></string>
+                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\logo_unl.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="a67e1288585e7d23e38480b4c399e8dd"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -458,7 +458,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="866"></int>
+                           <int value="912"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -472,7 +472,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="46_143_2.48"></unicode>
+                         <unicode value="46_143_2.54"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="164">
                           <dictionary>
@@ -483,7 +483,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Captura_de_pantalla_2025-11-14_214335.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Captura_de_pantalla_2025-11-14_214335.png"></string>
+                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Captura_de_pantalla_2025-11-14_214335.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="5c800667d3149eb92162b7dd1e959c0f"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -510,7 +510,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="886"></int>
+                           <int value="932"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -524,7 +524,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="46_143_2.49"></unicode>
+                         <unicode value="46_143_2.55"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="165">
                           <dictionary>
@@ -535,7 +535,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="modelo_3.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\modelo_3.png"></string>
+                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\modelo_3.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="e0b581d77cf3058e9baadd8908375d65"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -562,7 +562,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="887"></int>
+                           <int value="933"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -576,7 +576,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="46_143_2.50"></unicode>
+                         <unicode value="46_143_2.56"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="166">
                           <dictionary>
@@ -587,7 +587,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="modelo_5.jpeg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\modelo_5.jpeg"></string>
+                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\modelo_5.jpeg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="208d35ff23a4a0e59d2fa70adf809754"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -614,7 +614,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="888"></int>
+                           <int value="934"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -628,7 +628,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="46_143_2.51"></unicode>
+                         <unicode value="46_143_2.57"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="167">
                           <dictionary>
@@ -639,7 +639,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="modulo_1.jpeg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\modulo_1.jpeg"></string>
+                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\modulo_1.jpeg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="d9ef434d5a2ecdbb9f80207bb8c4bfee"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -666,7 +666,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="889"></int>
+                           <int value="935"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -680,7 +680,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="46_143_2.52"></unicode>
+                         <unicode value="46_143_2.58"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="168">
                           <dictionary>
@@ -691,7 +691,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="modulo_2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\modulo_2.png"></string>
+                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\modulo_2.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="97240894e7e99bc8b4e774170fac95c7"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -718,7 +718,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="890"></int>
+                           <int value="936"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -732,7 +732,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="46_143_2.53"></unicode>
+                         <unicode value="46_143_2.59"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="169">
                           <dictionary>
@@ -743,7 +743,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="modulo_4.jpeg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\modulo_4.jpeg"></string>
+                           <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\modulo_4.jpeg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="c139804797013b4a2137526151f9c2ef"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -881,7 +881,7 @@
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="855"></int>
+                                    <int value="901"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -895,7 +895,7 @@
                                    </dictionary>
                                   </instance>
                                   <string role="key" value="_id"></string>
-                                  <unicode value="1_129_2.38"></unicode>
+                                  <unicode value="1_129_2.41"></unicode>
                                   <string role="key" value="_imageResource"></string>
                                   <instance class="exe.engine.resource.Resource" reference="159">
                                    <dictionary>
@@ -906,7 +906,7 @@
                                     <string role="key" value="_storageName"></string>
                                     <string value="archivos_y_directorios.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\archivos_y_directorios.png"></string>
+                                    <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\archivos_y_directorios.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="0d9900122576ddab33a73783cf64ce1f"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -933,7 +933,7 @@
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="891"></int>
+                                    <int value="937"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -947,7 +947,7 @@
                                    </dictionary>
                                   </instance>
                                   <string role="key" value="_id"></string>
-                                  <unicode value="1_129_2.39"></unicode>
+                                  <unicode value="1_129_2.42"></unicode>
                                   <string role="key" value="_imageResource"></string>
                                   <instance class="exe.engine.resource.Resource" reference="160">
                                    <dictionary>
@@ -958,7 +958,7 @@
                                     <string role="key" value="_storageName"></string>
                                     <string value="siguiente.jpg"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\siguiente.jpg"></string>
+                                    <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\siguiente.jpg"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="df8370f78e6a50d72125366085bb2684"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -985,7 +985,7 @@
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="895"></int>
+                                    <int value="941"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -999,7 +999,7 @@
                                    </dictionary>
                                   </instance>
                                   <string role="key" value="_id"></string>
-                                  <unicode value="1_129_2.40"></unicode>
+                                  <unicode value="1_129_2.43"></unicode>
                                   <string role="key" value="_imageResource"></string>
                                   <instance class="exe.engine.resource.Resource" reference="161">
                                    <dictionary>
@@ -1010,7 +1010,7 @@
                                     <string role="key" value="_storageName"></string>
                                     <string value="sistemas_operativos_y_redes.jpg"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\sistemas_operativos_y_redes.jpg"></string>
+                                    <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\sistemas_operativos_y_redes.jpg"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="a6ba9c945f7355125a4bb8c5fad7b0cb"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1153,7 +1153,7 @@
                                            <instance class="exe.engine.field.TextField">
                                             <dictionary>
                                              <string role="key" value="_id"></string>
-                                             <int value="851"></int>
+                                             <int value="897"></int>
                                              <string role="key" value="_idevice"></string>
                                              <none></none>
                                              <string role="key" value="_instruc"></string>
@@ -1167,7 +1167,7 @@
                                             </dictionary>
                                            </instance>
                                            <string role="key" value="_id"></string>
-                                           <unicode value="24_128_2.51"></unicode>
+                                           <unicode value="24_128_2.56"></unicode>
                                            <string role="key" value="_imageResource"></string>
                                            <instance class="exe.engine.resource.Resource" reference="154">
                                             <dictionary>
@@ -1178,7 +1178,7 @@
                                              <string role="key" value="_storageName"></string>
                                              <string value="AACTIVIDAD__M1.jpg"></string>
                                              <string role="key" value="_userName"></string>
-                                             <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\AACTIVIDAD__M1.jpg"></string>
+                                             <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\AACTIVIDAD__M1.jpg"></string>
                                              <string role="key" value="checksum"></string>
                                              <string value="a043002e8d91fd6bda60ce6b50a04b79"></string>
                                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1205,7 +1205,7 @@
                                            <instance class="exe.engine.field.TextField">
                                             <dictionary>
                                              <string role="key" value="_id"></string>
-                                             <int value="860"></int>
+                                             <int value="906"></int>
                                              <string role="key" value="_idevice"></string>
                                              <none></none>
                                              <string role="key" value="_instruc"></string>
@@ -1219,7 +1219,7 @@
                                             </dictionary>
                                            </instance>
                                            <string role="key" value="_id"></string>
-                                           <unicode value="24_128_2.52"></unicode>
+                                           <unicode value="24_128_2.57"></unicode>
                                            <string role="key" value="_imageResource"></string>
                                            <instance class="exe.engine.resource.Resource" reference="155">
                                             <dictionary>
@@ -1230,7 +1230,7 @@
                                              <string role="key" value="_storageName"></string>
                                              <string value="atras.jpg"></string>
                                              <string role="key" value="_userName"></string>
-                                             <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\atras.jpg"></string>
+                                             <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\atras.jpg"></string>
                                              <string role="key" value="checksum"></string>
                                              <string value="37d8dd11533d2cdd916ff2a0bbe9f522"></string>
                                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1257,7 +1257,7 @@
                                            <instance class="exe.engine.field.TextField">
                                             <dictionary>
                                              <string role="key" value="_id"></string>
-                                             <int value="865"></int>
+                                             <int value="911"></int>
                                              <string role="key" value="_idevice"></string>
                                              <none></none>
                                              <string role="key" value="_instruc"></string>
@@ -1271,7 +1271,7 @@
                                             </dictionary>
                                            </instance>
                                            <string role="key" value="_id"></string>
-                                           <unicode value="24_128_2.53"></unicode>
+                                           <unicode value="24_128_2.58"></unicode>
                                            <string role="key" value="_imageResource"></string>
                                            <instance class="exe.engine.resource.Resource" reference="156">
                                             <dictionary>
@@ -1282,7 +1282,7 @@
                                              <string role="key" value="_storageName"></string>
                                              <string value="Captura_de_pantalla_2025-11-14_211553.png"></string>
                                              <string role="key" value="_userName"></string>
-                                             <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Captura_de_pantalla_2025-11-14_211553.png"></string>
+                                             <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Captura_de_pantalla_2025-11-14_211553.png"></string>
                                              <string role="key" value="checksum"></string>
                                              <string value="df94c4efa50cdb7d4636121fd03066a5"></string>
                                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1309,7 +1309,7 @@
                                            <instance class="exe.engine.field.TextField">
                                             <dictionary>
                                              <string role="key" value="_id"></string>
-                                             <int value="872"></int>
+                                             <int value="918"></int>
                                              <string role="key" value="_idevice"></string>
                                              <none></none>
                                              <string role="key" value="_instruc"></string>
@@ -1323,7 +1323,7 @@
                                             </dictionary>
                                            </instance>
                                            <string role="key" value="_id"></string>
-                                           <unicode value="24_128_2.54"></unicode>
+                                           <unicode value="24_128_2.59"></unicode>
                                            <string role="key" value="_imageResource"></string>
                                            <instance class="exe.engine.resource.Resource" reference="157">
                                             <dictionary>
@@ -1334,7 +1334,7 @@
                                              <string role="key" value="_storageName"></string>
                                              <string value="Evaluacion.jpg"></string>
                                              <string role="key" value="_userName"></string>
-                                             <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Evaluacion.jpg"></string>
+                                             <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Evaluacion.jpg"></string>
                                              <string role="key" value="checksum"></string>
                                              <string value="dd0c28e91e2ffdb7c8d52b1fad3e52df"></string>
                                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1361,7 +1361,7 @@
                                            <instance class="exe.engine.field.TextField">
                                             <dictionary>
                                              <string role="key" value="_id"></string>
-                                             <int value="896"></int>
+                                             <int value="942"></int>
                                              <string role="key" value="_idevice"></string>
                                              <none></none>
                                              <string role="key" value="_instruc"></string>
@@ -1375,7 +1375,7 @@
                                             </dictionary>
                                            </instance>
                                            <string role="key" value="_id"></string>
-                                           <unicode value="24_128_2.55"></unicode>
+                                           <unicode value="24_128_2.60"></unicode>
                                            <string role="key" value="_imageResource"></string>
                                            <instance class="exe.engine.resource.Resource" reference="158">
                                             <dictionary>
@@ -1386,7 +1386,7 @@
                                              <string role="key" value="_storageName"></string>
                                              <string value="world-wide-web-7109279_1280.jpg"></string>
                                              <string role="key" value="_userName"></string>
-                                             <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\world-wide-web-7109279_1280.jpg"></string>
+                                             <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\world-wide-web-7109279_1280.jpg"></string>
                                              <string role="key" value="checksum"></string>
                                              <string value="d7b66d5ef26525b46b34e84afa0e93a7"></string>
                                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3872,7 +3872,7 @@ clicking the red X next to the option."></unicode>
                                                     <instance class="exe.engine.field.TextField">
                                                      <dictionary>
                                                       <string role="key" value="_id"></string>
-                                                      <int value="852"></int>
+                                                      <int value="898"></int>
                                                       <string role="key" value="_idevice"></string>
                                                       <none></none>
                                                       <string role="key" value="_instruc"></string>
@@ -3886,7 +3886,7 @@ clicking the red X next to the option."></unicode>
                                                      </dictionary>
                                                     </instance>
                                                     <string role="key" value="_id"></string>
-                                                    <unicode value="7_135_2.36"></unicode>
+                                                    <unicode value="7_135_2.40"></unicode>
                                                     <string role="key" value="_imageResource"></string>
                                                     <instance class="exe.engine.resource.Resource" reference="150">
                                                      <dictionary>
@@ -3897,7 +3897,7 @@ clicking the red X next to the option."></unicode>
                                                       <string role="key" value="_storageName"></string>
                                                       <string value="AACTIVIDAD__M1.jpg"></string>
                                                       <string role="key" value="_userName"></string>
-                                                      <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\AACTIVIDAD__M1.jpg"></string>
+                                                      <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\AACTIVIDAD__M1.jpg"></string>
                                                       <string role="key" value="checksum"></string>
                                                       <string value="a043002e8d91fd6bda60ce6b50a04b79"></string>
                                                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3924,7 +3924,7 @@ clicking the red X next to the option."></unicode>
                                                     <instance class="exe.engine.field.TextField">
                                                      <dictionary>
                                                       <string role="key" value="_id"></string>
-                                                      <int value="861"></int>
+                                                      <int value="907"></int>
                                                       <string role="key" value="_idevice"></string>
                                                       <none></none>
                                                       <string role="key" value="_instruc"></string>
@@ -3938,7 +3938,7 @@ clicking the red X next to the option."></unicode>
                                                      </dictionary>
                                                     </instance>
                                                     <string role="key" value="_id"></string>
-                                                    <unicode value="7_135_2.37"></unicode>
+                                                    <unicode value="7_135_2.41"></unicode>
                                                     <string role="key" value="_imageResource"></string>
                                                     <instance class="exe.engine.resource.Resource" reference="151">
                                                      <dictionary>
@@ -3949,7 +3949,7 @@ clicking the red X next to the option."></unicode>
                                                       <string role="key" value="_storageName"></string>
                                                       <string value="atras.jpg"></string>
                                                       <string role="key" value="_userName"></string>
-                                                      <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\atras.jpg"></string>
+                                                      <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\atras.jpg"></string>
                                                       <string role="key" value="checksum"></string>
                                                       <string value="37d8dd11533d2cdd916ff2a0bbe9f522"></string>
                                                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3976,7 +3976,7 @@ clicking the red X next to the option."></unicode>
                                                     <instance class="exe.engine.field.TextField">
                                                      <dictionary>
                                                       <string role="key" value="_id"></string>
-                                                      <int value="873"></int>
+                                                      <int value="919"></int>
                                                       <string role="key" value="_idevice"></string>
                                                       <none></none>
                                                       <string role="key" value="_instruc"></string>
@@ -3990,7 +3990,7 @@ clicking the red X next to the option."></unicode>
                                                      </dictionary>
                                                     </instance>
                                                     <string role="key" value="_id"></string>
-                                                    <unicode value="7_135_2.38"></unicode>
+                                                    <unicode value="7_135_2.42"></unicode>
                                                     <string role="key" value="_imageResource"></string>
                                                     <instance class="exe.engine.resource.Resource" reference="152">
                                                      <dictionary>
@@ -4001,7 +4001,7 @@ clicking the red X next to the option."></unicode>
                                                       <string role="key" value="_storageName"></string>
                                                       <string value="Evaluacion.jpg"></string>
                                                       <string role="key" value="_userName"></string>
-                                                      <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Evaluacion.jpg"></string>
+                                                      <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Evaluacion.jpg"></string>
                                                       <string role="key" value="checksum"></string>
                                                       <string value="dd0c28e91e2ffdb7c8d52b1fad3e52df"></string>
                                                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4028,7 +4028,7 @@ clicking the red X next to the option."></unicode>
                                                     <instance class="exe.engine.field.TextField">
                                                      <dictionary>
                                                       <string role="key" value="_id"></string>
-                                                      <int value="892"></int>
+                                                      <int value="938"></int>
                                                       <string role="key" value="_idevice"></string>
                                                       <none></none>
                                                       <string role="key" value="_instruc"></string>
@@ -4042,7 +4042,7 @@ clicking the red X next to the option."></unicode>
                                                      </dictionary>
                                                     </instance>
                                                     <string role="key" value="_id"></string>
-                                                    <unicode value="7_135_2.39"></unicode>
+                                                    <unicode value="7_135_2.43"></unicode>
                                                     <string role="key" value="_imageResource"></string>
                                                     <instance class="exe.engine.resource.Resource" reference="153">
                                                      <dictionary>
@@ -4053,7 +4053,7 @@ clicking the red X next to the option."></unicode>
                                                       <string role="key" value="_storageName"></string>
                                                       <string value="siguiente.jpg"></string>
                                                       <string role="key" value="_userName"></string>
-                                                      <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\siguiente.jpg"></string>
+                                                      <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\siguiente.jpg"></string>
                                                       <string role="key" value="checksum"></string>
                                                       <string value="df8370f78e6a50d72125366085bb2684"></string>
                                                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4647,7 +4647,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                              <instance class="exe.engine.field.TextField">
                                                               <dictionary>
                                                                <string role="key" value="_id"></string>
-                                                               <int value="862"></int>
+                                                               <int value="908"></int>
                                                                <string role="key" value="_idevice"></string>
                                                                <none></none>
                                                                <string role="key" value="_instruc"></string>
@@ -4661,7 +4661,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                               </dictionary>
                                                              </instance>
                                                              <string role="key" value="_id"></string>
-                                                             <unicode value="8_136_2.38"></unicode>
+                                                             <unicode value="8_136_2.42"></unicode>
                                                              <string role="key" value="_imageResource"></string>
                                                              <instance class="exe.engine.resource.Resource" reference="129">
                                                               <dictionary>
@@ -4672,7 +4672,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                <string role="key" value="_storageName"></string>
                                                                <string value="atras.jpg"></string>
                                                                <string role="key" value="_userName"></string>
-                                                               <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\atras.jpg"></string>
+                                                               <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\atras.jpg"></string>
                                                                <string role="key" value="checksum"></string>
                                                                <string value="37d8dd11533d2cdd916ff2a0bbe9f522"></string>
                                                                <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4699,7 +4699,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                              <instance class="exe.engine.field.TextField">
                                                               <dictionary>
                                                                <string role="key" value="_id"></string>
-                                                               <int value="874"></int>
+                                                               <int value="920"></int>
                                                                <string role="key" value="_idevice"></string>
                                                                <none></none>
                                                                <string role="key" value="_instruc"></string>
@@ -4713,7 +4713,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                               </dictionary>
                                                              </instance>
                                                              <string role="key" value="_id"></string>
-                                                             <unicode value="8_136_2.39"></unicode>
+                                                             <unicode value="8_136_2.43"></unicode>
                                                              <string role="key" value="_imageResource"></string>
                                                              <instance class="exe.engine.resource.Resource" reference="130">
                                                               <dictionary>
@@ -4724,7 +4724,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                <string role="key" value="_storageName"></string>
                                                                <string value="Evaluacion.jpg"></string>
                                                                <string role="key" value="_userName"></string>
-                                                               <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Evaluacion.jpg"></string>
+                                                               <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Evaluacion.jpg"></string>
                                                                <string role="key" value="checksum"></string>
                                                                <string value="dd0c28e91e2ffdb7c8d52b1fad3e52df"></string>
                                                                <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4751,7 +4751,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                              <instance class="exe.engine.field.TextField">
                                                               <dictionary>
                                                                <string role="key" value="_id"></string>
-                                                               <int value="883"></int>
+                                                               <int value="929"></int>
                                                                <string role="key" value="_idevice"></string>
                                                                <none></none>
                                                                <string role="key" value="_instruc"></string>
@@ -4765,7 +4765,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                               </dictionary>
                                                              </instance>
                                                              <string role="key" value="_id"></string>
-                                                             <unicode value="8_136_2.40"></unicode>
+                                                             <unicode value="8_136_2.44"></unicode>
                                                              <string role="key" value="_imageResource"></string>
                                                              <instance class="exe.engine.resource.Resource" reference="131">
                                                               <dictionary>
@@ -4776,7 +4776,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                <string role="key" value="_storageName"></string>
                                                                <string value="img0.png"></string>
                                                                <string role="key" value="_userName"></string>
-                                                               <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\img0.png"></string>
+                                                               <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\img0.png"></string>
                                                                <string role="key" value="checksum"></string>
                                                                <string value="a35def6ac8acc7d29a4518feaa0e9ea7"></string>
                                                                <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4803,7 +4803,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                              <instance class="exe.engine.field.TextField">
                                                               <dictionary>
                                                                <string role="key" value="_id"></string>
-                                                               <int value="893"></int>
+                                                               <int value="939"></int>
                                                                <string role="key" value="_idevice"></string>
                                                                <none></none>
                                                                <string role="key" value="_instruc"></string>
@@ -4817,7 +4817,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                               </dictionary>
                                                              </instance>
                                                              <string role="key" value="_id"></string>
-                                                             <unicode value="8_136_2.41"></unicode>
+                                                             <unicode value="8_136_2.45"></unicode>
                                                              <string role="key" value="_imageResource"></string>
                                                              <instance class="exe.engine.resource.Resource" reference="132">
                                                               <dictionary>
@@ -4828,7 +4828,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                <string role="key" value="_storageName"></string>
                                                                <string value="siguiente.jpg"></string>
                                                                <string role="key" value="_userName"></string>
-                                                               <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\siguiente.jpg"></string>
+                                                               <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\siguiente.jpg"></string>
                                                                <string role="key" value="checksum"></string>
                                                                <string value="df8370f78e6a50d72125366085bb2684"></string>
                                                                <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5126,7 +5126,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                       <instance class="exe.engine.field.TextField">
                                                                        <dictionary>
                                                                         <string role="key" value="_id"></string>
-                                                                        <int value="853"></int>
+                                                                        <int value="899"></int>
                                                                         <string role="key" value="_idevice"></string>
                                                                         <none></none>
                                                                         <string role="key" value="_instruc"></string>
@@ -5140,7 +5140,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                        </dictionary>
                                                                       </instance>
                                                                       <string role="key" value="_id"></string>
-                                                                      <unicode value="9_137_2.36"></unicode>
+                                                                      <unicode value="9_137_2.40"></unicode>
                                                                       <string role="key" value="_imageResource"></string>
                                                                       <instance class="exe.engine.resource.Resource" reference="125">
                                                                        <dictionary>
@@ -5151,7 +5151,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                         <string role="key" value="_storageName"></string>
                                                                         <string value="AACTIVIDAD__M1.jpg"></string>
                                                                         <string role="key" value="_userName"></string>
-                                                                        <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\AACTIVIDAD__M1.jpg"></string>
+                                                                        <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\AACTIVIDAD__M1.jpg"></string>
                                                                         <string role="key" value="checksum"></string>
                                                                         <string value="a043002e8d91fd6bda60ce6b50a04b79"></string>
                                                                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5178,7 +5178,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                       <instance class="exe.engine.field.TextField">
                                                                        <dictionary>
                                                                         <string role="key" value="_id"></string>
-                                                                        <int value="863"></int>
+                                                                        <int value="909"></int>
                                                                         <string role="key" value="_idevice"></string>
                                                                         <none></none>
                                                                         <string role="key" value="_instruc"></string>
@@ -5192,7 +5192,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                        </dictionary>
                                                                       </instance>
                                                                       <string role="key" value="_id"></string>
-                                                                      <unicode value="9_137_2.37"></unicode>
+                                                                      <unicode value="9_137_2.41"></unicode>
                                                                       <string role="key" value="_imageResource"></string>
                                                                       <instance class="exe.engine.resource.Resource" reference="126">
                                                                        <dictionary>
@@ -5203,7 +5203,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                         <string role="key" value="_storageName"></string>
                                                                         <string value="atras.jpg"></string>
                                                                         <string role="key" value="_userName"></string>
-                                                                        <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\atras.jpg"></string>
+                                                                        <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\atras.jpg"></string>
                                                                         <string role="key" value="checksum"></string>
                                                                         <string value="37d8dd11533d2cdd916ff2a0bbe9f522"></string>
                                                                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5230,7 +5230,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                       <instance class="exe.engine.field.TextField">
                                                                        <dictionary>
                                                                         <string role="key" value="_id"></string>
-                                                                        <int value="875"></int>
+                                                                        <int value="921"></int>
                                                                         <string role="key" value="_idevice"></string>
                                                                         <none></none>
                                                                         <string role="key" value="_instruc"></string>
@@ -5244,7 +5244,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                        </dictionary>
                                                                       </instance>
                                                                       <string role="key" value="_id"></string>
-                                                                      <unicode value="9_137_2.38"></unicode>
+                                                                      <unicode value="9_137_2.42"></unicode>
                                                                       <string role="key" value="_imageResource"></string>
                                                                       <instance class="exe.engine.resource.Resource" reference="127">
                                                                        <dictionary>
@@ -5255,7 +5255,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                         <string role="key" value="_storageName"></string>
                                                                         <string value="Evaluacion.jpg"></string>
                                                                         <string role="key" value="_userName"></string>
-                                                                        <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Evaluacion.jpg"></string>
+                                                                        <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Evaluacion.jpg"></string>
                                                                         <string role="key" value="checksum"></string>
                                                                         <string value="dd0c28e91e2ffdb7c8d52b1fad3e52df"></string>
                                                                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5282,7 +5282,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                       <instance class="exe.engine.field.TextField">
                                                                        <dictionary>
                                                                         <string role="key" value="_id"></string>
-                                                                        <int value="894"></int>
+                                                                        <int value="940"></int>
                                                                         <string role="key" value="_idevice"></string>
                                                                         <none></none>
                                                                         <string role="key" value="_instruc"></string>
@@ -5296,7 +5296,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                        </dictionary>
                                                                       </instance>
                                                                       <string role="key" value="_id"></string>
-                                                                      <unicode value="9_137_2.39"></unicode>
+                                                                      <unicode value="9_137_2.43"></unicode>
                                                                       <string role="key" value="_imageResource"></string>
                                                                       <instance class="exe.engine.resource.Resource" reference="128">
                                                                        <dictionary>
@@ -5307,7 +5307,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                                         <string role="key" value="_storageName"></string>
                                                                         <string value="siguiente.jpg"></string>
                                                                         <string role="key" value="_userName"></string>
-                                                                        <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\siguiente.jpg"></string>
+                                                                        <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\siguiente.jpg"></string>
                                                                         <string role="key" value="checksum"></string>
                                                                         <string value="df8370f78e6a50d72125366085bb2684"></string>
                                                                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6365,7 +6365,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
 &lt;p&gt;&lt;strong&gt;Sistemas de archivos de red disponibles&lt;/strong&gt;&lt;br /&gt;El sistema de archivos cliente/servidor más común para los clientes de RHEL es el sistema de archivos NFS. RHEL proporciona tanto un componente de servidor NFS para exportar un sistema de archivos local a través de la red como un cliente NFS para importar estos sistemas de archivos.&lt;br /&gt;RHEL también incluye un cliente CIFS que soporta los populares servidores de archivos SMB de Microsoft para la interoperabilidad con Windows. El servidor Samba del espacio de usuario proporciona a los clientes de Windows un servicio SMB de Microsoft desde un servidor RHEL.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/AACTIVIDAD__M1.jpg&quot; alt=&quot;&quot; width=&quot;94&quot; height=&quot;97&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;exe-node:PORTADA:Sistemas%20Operativos%20y%20Redes%3A%20Archivos%20y%20directorios.:M%C3%B3dulo%204#auto_top&quot;&gt;&lt;img src=&quot;resources/atras.jpg&quot; alt=&quot;&quot; width=&quot;94&quot; height=&quot;97&quot; /&gt;&lt;img src=&quot;resources/Inicio.jpg&quot; alt=&quot;&quot; width=&quot;98&quot; height=&quot;94&quot; style=&quot;float: right;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;exe-node:PORTADA:Sistemas%20Operativos%20y%20Redes%3A%20Archivos%20y%20directorios.#auto_top&quot;&gt;&lt;img src=&quot;resources/atras.jpg&quot; alt=&quot;&quot; width=&quot;94&quot; height=&quot;97&quot; /&gt;&lt;img src=&quot;resources/Inicio.jpg&quot; alt=&quot;&quot; width=&quot;98&quot; height=&quot;94&quot; style=&quot;float: right;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;exe-node:PORTADA:Sistemas%20Operativos%20y%20Redes%3A%20Archivos%20y%20directorios.:M%C3%B3dulo%205:Evaluaci%C3%B3n%20#auto_top&quot;&gt;&lt;img src=&quot;resources/Evaluacion.jpg&quot; alt=&quot;&quot; width=&quot;129&quot; height=&quot;97&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                                                                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                                                                           <int value="4"></int>
@@ -6386,7 +6386,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                <instance class="exe.engine.field.TextField">
                                                                                 <dictionary>
                                                                                  <string role="key" value="_id"></string>
-                                                                                 <int value="854"></int>
+                                                                                 <int value="900"></int>
                                                                                  <string role="key" value="_idevice"></string>
                                                                                  <none></none>
                                                                                  <string role="key" value="_instruc"></string>
@@ -6400,7 +6400,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                 </dictionary>
                                                                                </instance>
                                                                                <string role="key" value="_id"></string>
-                                                                               <unicode value="10_138_2.36"></unicode>
+                                                                               <unicode value="10_138_2.40"></unicode>
                                                                                <string role="key" value="_imageResource"></string>
                                                                                <instance class="exe.engine.resource.Resource" reference="118">
                                                                                 <dictionary>
@@ -6411,7 +6411,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                  <string role="key" value="_storageName"></string>
                                                                                  <string value="AACTIVIDAD__M1.jpg"></string>
                                                                                  <string role="key" value="_userName"></string>
-                                                                                 <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\AACTIVIDAD__M1.jpg"></string>
+                                                                                 <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\AACTIVIDAD__M1.jpg"></string>
                                                                                  <string role="key" value="checksum"></string>
                                                                                  <string value="a043002e8d91fd6bda60ce6b50a04b79"></string>
                                                                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6438,7 +6438,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                <instance class="exe.engine.field.TextField">
                                                                                 <dictionary>
                                                                                  <string role="key" value="_id"></string>
-                                                                                 <int value="864"></int>
+                                                                                 <int value="910"></int>
                                                                                  <string role="key" value="_idevice"></string>
                                                                                  <none></none>
                                                                                  <string role="key" value="_instruc"></string>
@@ -6452,7 +6452,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                 </dictionary>
                                                                                </instance>
                                                                                <string role="key" value="_id"></string>
-                                                                               <unicode value="10_138_2.37"></unicode>
+                                                                               <unicode value="10_138_2.41"></unicode>
                                                                                <string role="key" value="_imageResource"></string>
                                                                                <instance class="exe.engine.resource.Resource" reference="119">
                                                                                 <dictionary>
@@ -6463,7 +6463,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                  <string role="key" value="_storageName"></string>
                                                                                  <string value="atras.jpg"></string>
                                                                                  <string role="key" value="_userName"></string>
-                                                                                 <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\atras.jpg"></string>
+                                                                                 <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\atras.jpg"></string>
                                                                                  <string role="key" value="checksum"></string>
                                                                                  <string value="37d8dd11533d2cdd916ff2a0bbe9f522"></string>
                                                                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6490,7 +6490,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                <instance class="exe.engine.field.TextField">
                                                                                 <dictionary>
                                                                                  <string role="key" value="_id"></string>
-                                                                                 <int value="876"></int>
+                                                                                 <int value="922"></int>
                                                                                  <string role="key" value="_idevice"></string>
                                                                                  <none></none>
                                                                                  <string role="key" value="_instruc"></string>
@@ -6504,7 +6504,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                 </dictionary>
                                                                                </instance>
                                                                                <string role="key" value="_id"></string>
-                                                                               <unicode value="10_138_2.38"></unicode>
+                                                                               <unicode value="10_138_2.42"></unicode>
                                                                                <string role="key" value="_imageResource"></string>
                                                                                <instance class="exe.engine.resource.Resource" reference="120">
                                                                                 <dictionary>
@@ -6515,7 +6515,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                  <string role="key" value="_storageName"></string>
                                                                                  <string value="Evaluacion.jpg"></string>
                                                                                  <string role="key" value="_userName"></string>
-                                                                                 <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Evaluacion.jpg"></string>
+                                                                                 <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Evaluacion.jpg"></string>
                                                                                  <string role="key" value="checksum"></string>
                                                                                  <string value="dd0c28e91e2ffdb7c8d52b1fad3e52df"></string>
                                                                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6542,7 +6542,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                <instance class="exe.engine.field.TextField">
                                                                                 <dictionary>
                                                                                  <string role="key" value="_id"></string>
-                                                                                 <int value="884"></int>
+                                                                                 <int value="930"></int>
                                                                                  <string role="key" value="_idevice"></string>
                                                                                  <none></none>
                                                                                  <string role="key" value="_instruc"></string>
@@ -6556,7 +6556,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                 </dictionary>
                                                                                </instance>
                                                                                <string role="key" value="_id"></string>
-                                                                               <unicode value="10_138_2.39"></unicode>
+                                                                               <unicode value="10_138_2.43"></unicode>
                                                                                <string role="key" value="_imageResource"></string>
                                                                                <instance class="exe.engine.resource.Resource" reference="121">
                                                                                 <dictionary>
@@ -6567,7 +6567,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                                  <string role="key" value="_storageName"></string>
                                                                                  <string value="Inicio.jpg"></string>
                                                                                  <string role="key" value="_userName"></string>
-                                                                                 <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Inicio.jpg"></string>
+                                                                                 <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Inicio.jpg"></string>
                                                                                  <string role="key" value="checksum"></string>
                                                                                  <string value="0a6a5067fdb0eb3ce06d8e8cecfd861d"></string>
                                                                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6595,8 +6595,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                                           </instance>
                                                                           <string role="key" value="intlinks_to_anchors"></string>
                                                                           <dictionary>
-                                                                           <unicode role="key" value="exe-node:PORTADA:Sistemas%20Operativos%20y%20Redes%3A%20Archivos%20y%20directorios.:M%C3%B3dulo%204#auto_top"></unicode>
-                                                                           <reference key="79"></reference>
+                                                                           <unicode role="key" value="exe-node:PORTADA:Sistemas%20Operativos%20y%20Redes%3A%20Archivos%20y%20directorios.#auto_top"></unicode>
+                                                                           <reference key="10"></reference>
                                                                            <unicode role="key" value="exe-node:PORTADA:Sistemas%20Operativos%20y%20Redes%3A%20Archivos%20y%20directorios.:M%C3%B3dulo%205:Evaluaci%C3%B3n%20#auto_top"></unicode>
                                                                            <instance class="exe.engine.node.Node" reference="101">
                                                                             <dictionary>
@@ -7408,7 +7408,7 @@ estudiante a responder la pregunta."></unicode>
                                                                            </instance>
                                                                           </dictionary>
                                                                           <string role="key" value="nextImageId"></string>
-                                                                          <int value="40"></int>
+                                                                          <int value="44"></int>
                                                                           <string role="key" value="parentNode"></string>
                                                                           <reference key="117"></reference>
                                                                          </dictionary>
@@ -7625,7 +7625,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   </instance>
                                                                  </dictionary>
                                                                  <string role="key" value="nextImageId"></string>
-                                                                 <int value="40"></int>
+                                                                 <int value="44"></int>
                                                                  <string role="key" value="parentNode"></string>
                                                                  <reference key="79"></reference>
                                                                 </dictionary>
@@ -7679,7 +7679,6 @@ estudiante a responder la pregunta."></unicode>
                                                            <list>
                                                             <reference key="5"></reference>
                                                             <reference key="69"></reference>
-                                                            <reference key="98"></reference>
                                                            </list>
                                                            <string role="key" value="children"></string>
                                                            <list>
@@ -7690,7 +7689,7 @@ estudiante a responder la pregunta."></unicode>
                                                          </instance>
                                                         </dictionary>
                                                         <string role="key" value="nextImageId"></string>
-                                                        <int value="42"></int>
+                                                        <int value="46"></int>
                                                         <string role="key" value="parentNode"></string>
                                                         <reference key="73"></reference>
                                                        </dictionary>
@@ -7849,7 +7848,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="856"></int>
+                                                                  <int value="902"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -7863,7 +7862,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.168"></unicode>
+                                                                <unicode value="18_131_2.182"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="136">
                                                                  <dictionary>
@@ -7874,7 +7873,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="archivo_comprimido.jpg"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\archivo_comprimido.jpg"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\archivo_comprimido.jpg"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="30132108c9c230128bb7c3576fd60c05"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7901,7 +7900,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="857"></int>
+                                                                  <int value="903"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -7915,7 +7914,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.169"></unicode>
+                                                                <unicode value="18_131_2.183"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="137">
                                                                  <dictionary>
@@ -7926,7 +7925,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="archivo_comprimido.jpg"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\archivo_comprimido.jpg"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\archivo_comprimido.jpg"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="30132108c9c230128bb7c3576fd60c05"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7953,7 +7952,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="858"></int>
+                                                                  <int value="904"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -7967,7 +7966,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.170"></unicode>
+                                                                <unicode value="18_131_2.184"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="138">
                                                                  <dictionary>
@@ -7978,7 +7977,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="Archivo_de_texto.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Archivo_de_texto.png"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Archivo_de_texto.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="8f7c1f3c0c780de28f411535c6fdb2c5"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8005,7 +8004,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="859"></int>
+                                                                  <int value="905"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -8019,7 +8018,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.171"></unicode>
+                                                                <unicode value="18_131_2.185"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="139">
                                                                  <dictionary>
@@ -8030,7 +8029,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="Archivo_de_texto.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Archivo_de_texto.png"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Archivo_de_texto.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="8f7c1f3c0c780de28f411535c6fdb2c5"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8057,7 +8056,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="867"></int>
+                                                                  <int value="913"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -8071,7 +8070,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.172"></unicode>
+                                                                <unicode value="18_131_2.186"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="140">
                                                                  <dictionary>
@@ -8082,7 +8081,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="carpeta.jpg"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\carpeta.jpg"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\carpeta.jpg"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="db76fcabcfd78a3eae84f381df779eac"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8109,7 +8108,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="868"></int>
+                                                                  <int value="914"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -8123,7 +8122,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.173"></unicode>
+                                                                <unicode value="18_131_2.187"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="141">
                                                                  <dictionary>
@@ -8134,7 +8133,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="carpeta.jpg"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\carpeta.jpg"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\carpeta.jpg"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="db76fcabcfd78a3eae84f381df779eac"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8161,7 +8160,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="869"></int>
+                                                                  <int value="915"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -8175,7 +8174,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.174"></unicode>
+                                                                <unicode value="18_131_2.188"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="142">
                                                                  <dictionary>
@@ -8186,7 +8185,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="Disco_duro.jpg"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Disco_duro.jpg"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Disco_duro.jpg"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="94d141d4085ac5f38ef2c2c7fea8f34b"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8213,7 +8212,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="870"></int>
+                                                                  <int value="916"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -8227,7 +8226,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.175"></unicode>
+                                                                <unicode value="18_131_2.189"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="143">
                                                                  <dictionary>
@@ -8238,7 +8237,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="Disco_duro.jpg"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\Disco_duro.jpg"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\Disco_duro.jpg"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="94d141d4085ac5f38ef2c2c7fea8f34b"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8265,7 +8264,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="877"></int>
+                                                                  <int value="923"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -8279,7 +8278,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.176"></unicode>
+                                                                <unicode value="18_131_2.190"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="144">
                                                                  <dictionary>
@@ -8290,7 +8289,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="explorador_de_archivos.jpg"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\explorador_de_archivos.jpg"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\explorador_de_archivos.jpg"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="94c2cb8bb69adaa729ed2c087a81ed71"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8317,7 +8316,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="878"></int>
+                                                                  <int value="924"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -8331,7 +8330,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.177"></unicode>
+                                                                <unicode value="18_131_2.191"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="145">
                                                                  <dictionary>
@@ -8342,7 +8341,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="explorador_de_archivos.jpg"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\explorador_de_archivos.jpg"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\explorador_de_archivos.jpg"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="94c2cb8bb69adaa729ed2c087a81ed71"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8369,7 +8368,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="879"></int>
+                                                                  <int value="925"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -8383,7 +8382,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.178"></unicode>
+                                                                <unicode value="18_131_2.192"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="146">
                                                                  <dictionary>
@@ -8394,7 +8393,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="icono_de_eliminar.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\icono_de_eliminar.png"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\icono_de_eliminar.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="e68e69a19b6984808dadb90da7d0761f"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8421,7 +8420,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="880"></int>
+                                                                  <int value="926"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -8435,7 +8434,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.179"></unicode>
+                                                                <unicode value="18_131_2.193"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="147">
                                                                  <dictionary>
@@ -8446,7 +8445,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="icono_de_eliminar.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\icono_de_eliminar.png"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\icono_de_eliminar.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="e68e69a19b6984808dadb90da7d0761f"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8473,7 +8472,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="881"></int>
+                                                                  <int value="927"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -8487,7 +8486,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.180"></unicode>
+                                                                <unicode value="18_131_2.194"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="148">
                                                                  <dictionary>
@@ -8498,7 +8497,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="icono_de_mover.jpg"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\icono_de_mover.jpg"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\icono_de_mover.jpg"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="782e6e8e2477a3ebb6dfd7f84c8c7e4c"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8525,7 +8524,7 @@ estudiante a responder la pregunta."></unicode>
                                                                 <instance class="exe.engine.field.TextField">
                                                                  <dictionary>
                                                                   <string role="key" value="_id"></string>
-                                                                  <int value="882"></int>
+                                                                  <int value="928"></int>
                                                                   <string role="key" value="_idevice"></string>
                                                                   <none></none>
                                                                   <string role="key" value="_instruc"></string>
@@ -8539,7 +8538,7 @@ estudiante a responder la pregunta."></unicode>
                                                                  </dictionary>
                                                                 </instance>
                                                                 <string role="key" value="_id"></string>
-                                                                <unicode value="18_131_2.181"></unicode>
+                                                                <unicode value="18_131_2.195"></unicode>
                                                                 <string role="key" value="_imageResource"></string>
                                                                 <instance class="exe.engine.resource.Resource" reference="149">
                                                                  <dictionary>
@@ -8550,7 +8549,7 @@ estudiante a responder la pregunta."></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="icono_de_mover.jpg"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpminshf\\icono_de_mover.jpg"></string>
+                                                                  <string value="c:\\users\\lenovo\\appdata\\local\\temp\\tmpi76mb4\\icono_de_mover.jpg"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="782e6e8e2477a3ebb6dfd7f84c8c7e4c"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8579,7 +8578,7 @@ estudiante a responder la pregunta."></unicode>
                                                            <string role="key" value="intlinks_to_anchors"></string>
                                                            <dictionary></dictionary>
                                                            <string role="key" value="nextImageId"></string>
-                                                           <int value="182"></int>
+                                                           <int value="196"></int>
                                                            <string role="key" value="parentNode"></string>
                                                            <reference key="135"></reference>
                                                           </dictionary>
@@ -8651,7 +8650,7 @@ estudiante a responder la pregunta."></unicode>
                                                 </instance>
                                                </dictionary>
                                                <string role="key" value="nextImageId"></string>
-                                               <int value="40"></int>
+                                               <int value="44"></int>
                                                <string role="key" value="parentNode"></string>
                                                <reference key="62"></reference>
                                               </dictionary>
@@ -8716,7 +8715,7 @@ estudiante a responder la pregunta."></unicode>
                                        </instance>
                                       </dictionary>
                                       <string role="key" value="nextImageId"></string>
-                                      <int value="56"></int>
+                                      <int value="61"></int>
                                       <string role="key" value="parentNode"></string>
                                       <reference key="20"></reference>
                                      </dictionary>
@@ -8782,7 +8781,7 @@ estudiante a responder la pregunta."></unicode>
                               </instance>
                              </dictionary>
                              <string role="key" value="nextImageId"></string>
-                             <int value="41"></int>
+                             <int value="44"></int>
                              <string role="key" value="parentNode"></string>
                              <reference key="10"></reference>
                             </dictionary>
@@ -8835,6 +8834,7 @@ estudiante a responder la pregunta."></unicode>
                        <list>
                         <reference key="9"></reference>
                         <reference key="5"></reference>
+                        <reference key="98"></reference>
                        </list>
                        <string role="key" value="children"></string>
                        <list>
@@ -8858,7 +8858,7 @@ estudiante a responder la pregunta."></unicode>
                      <reference key="117"></reference>
                     </dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="54"></int>
+                    <int value="60"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="163"></reference>
                    </dictionary>
@@ -8920,7 +8920,7 @@ estudiante a responder la pregunta."></unicode>
             </instance>
            </dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="26"></int>
+           <int value="28"></int>
            <string role="key" value="parentNode"></string>
            <reference key="162"></reference>
           </dictionary>
@@ -9039,7 +9039,7 @@ estudiante a responder la pregunta."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="20"></reference>
+  <reference key="163"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
